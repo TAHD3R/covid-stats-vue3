@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Author-Jasar%20Ayiken-green?style=for-the-badge) ![](https://img.shields.io/badge/Framework-Vue3-yellowgreen?style=for-the-badge) ![](https://img.shields.io/badge/BACKEND-Flask-yellowgreen?style=for-the-badge)
 
 # Introduction
-This project is designed to get the track of Beijing University of Chemical and Technology's epedemic status, includeing undergraduates, graduates and faculties. This project is deployed on WeCom workbench as mini app.
+This project is designed to get the track of Beijing University of Chemical and Technology's epidemic status, includeing undergraduates, graduates and faculties. This project is deployed on WeCom workbench as mini app.
 # Tech-stack
 - Vue.js 3
 - Vant4 UI library
